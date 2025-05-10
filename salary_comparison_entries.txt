@@ -1,0 +1,4905 @@
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 55467.50
+Average Female Salary: 59349.17
+Difference: -3881.67
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 70061.17
+Average Female Salary: 59349.17
+Difference: 10712.00
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 70061.17
+Average Female Salary: 81666.67
+Difference: -11605.50
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 80719.43
+Average Female Salary: 81666.67
+Difference: -947.24
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 84074.15
+Average Female Salary: 81666.67
+Difference: 2407.49
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 84074.15
+Average Female Salary: 77766.00
+Difference: 6308.15
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 100000.00
+Average Female Salary: 77766.00
+Difference: 22234.00
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 107500.00
+Average Female Salary: 77766.00
+Difference: 29734.00
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 10.0
+Experience (Female): 10.0
+Average Male Salary: 116934.71
+Average Female Salary: 114776.00
+Difference: 2158.71
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 18.0
+Experience (Female): 18.0
+Average Male Salary: 150901.00
+Average Female Salary: 155795.00
+Difference: -4894.00
+
+
+Job Title: Back end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 18.0
+Experience (Female): 19.0
+Average Male Salary: 150901.00
+Average Female Salary: 140464.83
+Difference: 10436.17
+
+
+Job Title: Back end Developer
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 68611.00
+Average Female Salary: 62807.00
+Difference: 5804.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 0.0
+Experience (Female): 1.0
+Average Male Salary: 55538.00
+Average Female Salary: 60000.00
+Difference: -4462.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 87584.00
+Average Female Salary: 73938.00
+Difference: 13646.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 87584.00
+Average Female Salary: 110000.00
+Difference: -22416.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 87584.00
+Average Female Salary: 130000.00
+Difference: -42416.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 129545.45
+Average Female Salary: 110000.00
+Difference: 19545.45
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 129545.45
+Average Female Salary: 130000.00
+Difference: -454.55
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 120000.00
+Average Female Salary: 130000.00
+Difference: -10000.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 138706.14
+Average Female Salary: 124141.00
+Difference: 14565.14
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 150000.00
+Average Female Salary: 124141.00
+Difference: 25859.00
+
+
+Job Title: Back end Developer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 150000.00
+Average Female Salary: 155000.00
+Difference: -5000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 110000.00
+Average Female Salary: 110000.00
+Difference: 0.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 110000.00
+Average Female Salary: 120000.00
+Difference: -10000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 120000.00
+Average Female Salary: 110000.00
+Difference: 10000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 130000.00
+Average Female Salary: 120000.00
+Difference: 10000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 70000.00
+Average Female Salary: 80000.00
+Difference: -10000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 70000.00
+Average Female Salary: 75000.00
+Difference: -5000.00
+
+
+Job Title: Content Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 16.0
+Experience (Female): 15.0
+Average Male Salary: 160000.00
+Average Female Salary: 150000.00
+Difference: 10000.00
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 90600.00
+Average Female Salary: 105238.10
+Difference: -14638.10
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 104000.00
+Average Female Salary: 105238.10
+Difference: -1238.10
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 104000.00
+Average Female Salary: 114000.00
+Difference: -10000.00
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 126160.71
+Average Female Salary: 105238.10
+Difference: 20922.62
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 126160.71
+Average Female Salary: 114000.00
+Difference: 12160.71
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 154285.71
+Average Female Salary: 139473.68
+Difference: 14812.03
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 154285.71
+Average Female Salary: 120000.00
+Difference: 34285.71
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 130000.00
+Average Female Salary: 120000.00
+Difference: 10000.00
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 130000.00
+Average Female Salary: 130000.00
+Difference: 0.00
+
+
+Job Title: Data Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 160000.00
+Average Female Salary: 150000.00
+Difference: 10000.00
+
+
+Job Title: Data Analyst
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 100714.29
+Average Female Salary: 95000.00
+Difference: 5714.29
+
+
+Job Title: Data Analyst
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 100714.29
+Average Female Salary: 100000.00
+Difference: 714.29
+
+
+Job Title: Data Analyst
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 100714.29
+Average Female Salary: 120000.00
+Difference: -19285.71
+
+
+Job Title: Data Scientist
+Education Level: Bachelor's
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 180000.00
+Average Female Salary: 185000.00
+Difference: -5000.00
+
+
+Job Title: Data Scientist
+Education Level: Master's
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 75000.00
+Average Female Salary: 150000.00
+Difference: -75000.00
+
+
+Job Title: Data Scientist
+Education Level: Master's
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 160000.00
+Average Female Salary: 170312.50
+Difference: -10312.50
+
+
+Job Title: Data Scientist
+Education Level: Master's
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 180000.00
+Average Female Salary: 170312.50
+Difference: 9687.50
+
+
+Job Title: Data Scientist
+Education Level: Master's
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 186666.67
+Average Female Salary: 195000.00
+Difference: -8333.33
+
+
+Job Title: Data Scientist
+Education Level: Master's
+Experience (Male): 10.0
+Experience (Female): 9.0
+Average Male Salary: 195000.00
+Average Female Salary: 195000.00
+Difference: 0.00
+
+
+Job Title: Data Scientist
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 130000.00
+Average Female Salary: 130000.00
+Difference: 0.00
+
+
+Job Title: Data Scientist
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 140000.00
+Average Female Salary: 130000.00
+Difference: 10000.00
+
+
+Job Title: Data Scientist
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 140000.00
+Average Female Salary: 140000.00
+Difference: 0.00
+
+
+Job Title: Data Scientist
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 140000.00
+Average Female Salary: 145000.00
+Difference: -5000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 180000.00
+Average Female Salary: 122857.14
+Difference: 57142.86
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 180000.00
+Average Female Salary: 135000.00
+Difference: 45000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 100000.00
+Average Female Salary: 122857.14
+Difference: -22857.14
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 100000.00
+Average Female Salary: 135000.00
+Difference: -35000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 100000.00
+Average Female Salary: 181000.00
+Difference: -81000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 170000.00
+Average Female Salary: 135000.00
+Difference: 35000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 170000.00
+Average Female Salary: 181000.00
+Difference: -11000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 170000.00
+Average Female Salary: 140000.00
+Difference: 30000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 190000.00
+Average Female Salary: 181000.00
+Difference: 9000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 190000.00
+Average Female Salary: 140000.00
+Difference: 50000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 190000.00
+Average Female Salary: 154523.81
+Difference: 35476.19
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 134400.00
+Average Female Salary: 140000.00
+Difference: -5600.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 134400.00
+Average Female Salary: 154523.81
+Difference: -20123.81
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 134400.00
+Average Female Salary: 193000.00
+Difference: -58600.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 18.0
+Average Male Salary: 169222.22
+Average Female Salary: 183000.00
+Difference: -13777.78
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 18.0
+Average Male Salary: 180583.33
+Average Female Salary: 183000.00
+Difference: -2416.67
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 19.0
+Average Male Salary: 180583.33
+Average Female Salary: 193000.00
+Difference: -12416.67
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 19.0
+Experience (Female): 18.0
+Average Male Salary: 190000.00
+Average Female Salary: 183000.00
+Difference: 7000.00
+
+
+Job Title: Data Scientist
+Education Level: PhD
+Experience (Male): 19.0
+Experience (Female): 19.0
+Average Male Salary: 190000.00
+Average Female Salary: 193000.00
+Difference: -3000.00
+
+
+Job Title: Digital Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 80000.00
+Average Female Salary: 60000.00
+Difference: 20000.00
+
+
+Job Title: Digital Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 50000.00
+Difference: 0.00
+
+
+Job Title: Digital Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 50000.00
+Average Female Salary: 55000.00
+Difference: -5000.00
+
+
+Job Title: Director of Data Science
+Education Level: PhD
+Experience (Male): 20.0
+Experience (Female): 20.0
+Average Male Salary: 220000.00
+Average Female Salary: 220000.00
+Difference: 0.00
+
+
+Job Title: Director of Finance
+Education Level: Master's
+Experience (Male): 20.0
+Experience (Female): 20.0
+Average Male Salary: 170000.00
+Average Female Salary: 180000.00
+Difference: -10000.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 95000.00
+Average Female Salary: 80000.00
+Difference: 15000.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 95000.00
+Average Female Salary: 95000.00
+Difference: 0.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 90000.00
+Average Female Salary: 95000.00
+Difference: -5000.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 9.0
+Average Male Salary: 105000.00
+Average Female Salary: 95000.00
+Difference: 10000.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 120000.00
+Average Female Salary: 135000.00
+Difference: -15000.00
+
+
+Job Title: Director of HR
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 140000.00
+Average Female Salary: 135000.00
+Difference: 5000.00
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 120000.00
+Average Female Salary: 132222.22
+Difference: -12222.22
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 135000.00
+Average Female Salary: 132222.22
+Difference: 2777.78
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 135000.00
+Average Female Salary: 140000.00
+Difference: -5000.00
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 137500.00
+Average Female Salary: 132222.22
+Difference: 5277.78
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 137500.00
+Average Female Salary: 140000.00
+Difference: -2500.00
+
+
+Job Title: Director of HR
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 150000.00
+Average Female Salary: 140000.00
+Difference: 10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's
+Experience (Male): 19.0
+Experience (Female): 20.0
+Average Male Salary: 170000.00
+Average Female Salary: 180000.00
+Difference: -10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's
+Experience (Male): 21.0
+Experience (Female): 20.0
+Average Male Salary: 180000.00
+Average Female Salary: 180000.00
+Difference: 0.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's
+Experience (Male): 21.0
+Experience (Female): 21.0
+Average Male Salary: 180000.00
+Average Female Salary: 180000.00
+Difference: 0.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 95000.00
+Average Female Salary: 100000.00
+Difference: -5000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 120000.00
+Average Female Salary: 130000.00
+Difference: -10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 130000.00
+Average Female Salary: 120000.00
+Difference: 10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 130000.00
+Average Female Salary: 130000.00
+Difference: 0.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 140000.00
+Average Female Salary: 130000.00
+Difference: 10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 150000.00
+Average Female Salary: 160000.00
+Difference: -10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 16.0
+Experience (Female): 16.0
+Average Male Salary: 160000.00
+Average Female Salary: 160000.00
+Difference: 0.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 16.0
+Experience (Female): 17.0
+Average Male Salary: 160000.00
+Average Female Salary: 170000.00
+Difference: -10000.00
+
+
+Job Title: Director of Marketing
+Education Level: Master's Degree
+Experience (Male): 18.0
+Experience (Female): 17.0
+Average Male Salary: 180000.00
+Average Female Salary: 170000.00
+Difference: 10000.00
+
+
+Job Title: Director of Marketing
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 170000.00
+Average Female Salary: 170000.00
+Difference: 0.00
+
+
+Job Title: Director of Operations
+Education Level: Master's
+Experience (Male): 20.0
+Experience (Female): 21.0
+Average Male Salary: 170000.00
+Average Female Salary: 170000.00
+Difference: 0.00
+
+
+Job Title: Director of Operations
+Education Level: PhD
+Experience (Male): 21.0
+Experience (Female): 22.0
+Average Male Salary: 180000.00
+Average Female Salary: 180000.00
+Difference: 0.00
+
+
+Job Title: Financial Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 150000.00
+Average Female Salary: 150000.00
+Difference: 0.00
+
+
+Job Title: Financial Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 150000.00
+Average Female Salary: 160000.00
+Difference: -10000.00
+
+
+Job Title: Financial Analyst
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 90000.00
+Average Female Salary: 80000.00
+Difference: 10000.00
+
+
+Job Title: Financial Analyst
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 95000.00
+Average Female Salary: 80000.00
+Difference: 15000.00
+
+
+Job Title: Financial Manager
+Education Level: Bachelor's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 120000.00
+Average Female Salary: 110000.00
+Difference: 10000.00
+
+
+Job Title: Financial Manager
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 45000.00
+Average Female Salary: 45000.00
+Difference: 0.00
+
+
+Job Title: Financial Manager
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 45000.00
+Average Female Salary: 60000.00
+Difference: -15000.00
+
+
+Job Title: Financial Manager
+Education Level: High School
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 60000.00
+Average Female Salary: 45000.00
+Difference: 15000.00
+
+
+Job Title: Financial Manager
+Education Level: High School
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 60000.00
+Average Female Salary: 60000.00
+Difference: 0.00
+
+
+Job Title: Financial Manager
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Financial Manager
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 57500.00
+Average Female Salary: 52307.83
+Difference: 5192.17
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 57500.00
+Average Female Salary: 65384.62
+Difference: -7884.62
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 67717.39
+Average Female Salary: 52307.83
+Difference: 15409.57
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 67717.39
+Average Female Salary: 65384.62
+Difference: 2332.78
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 67717.39
+Average Female Salary: 80833.33
+Difference: -13115.94
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 79308.67
+Average Female Salary: 65384.62
+Difference: 13924.05
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 79308.67
+Average Female Salary: 80833.33
+Difference: -1524.67
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 79308.67
+Average Female Salary: 90000.00
+Difference: -10691.33
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 90000.00
+Average Female Salary: 80833.33
+Difference: 9166.67
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 90000.00
+Average Female Salary: 90000.00
+Difference: 0.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 90000.00
+Average Female Salary: 105000.00
+Difference: -15000.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 100000.00
+Average Female Salary: 90000.00
+Difference: 10000.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 100000.00
+Average Female Salary: 105000.00
+Difference: -5000.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 100000.00
+Average Female Salary: 110000.00
+Difference: -10000.00
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 110384.62
+Average Female Salary: 105000.00
+Difference: 5384.62
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 110384.62
+Average Female Salary: 110000.00
+Difference: 384.62
+
+
+Job Title: Front end Developer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 111641.00
+Average Female Salary: 110000.00
+Difference: 1641.00
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 73640.00
+Average Female Salary: 65840.00
+Difference: 7800.00
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 73640.00
+Average Female Salary: 73075.75
+Difference: 564.25
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 73640.00
+Average Female Salary: 80955.67
+Difference: -7315.67
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 75656.00
+Average Female Salary: 73075.75
+Difference: 2580.25
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 75656.00
+Average Female Salary: 80955.67
+Difference: -5299.67
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 75656.00
+Average Female Salary: 102335.40
+Difference: -26679.40
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 86161.33
+Average Female Salary: 80955.67
+Difference: 5205.67
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 86161.33
+Average Female Salary: 102335.40
+Difference: -16174.07
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 99363.00
+Average Female Salary: 102335.40
+Difference: -2972.40
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 107193.50
+Average Female Salary: 120461.20
+Difference: -13267.70
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 150000.00
+Average Female Salary: 120461.20
+Difference: 29538.80
+
+
+Job Title: Front end Developer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 150000.00
+Average Female Salary: 119419.00
+Difference: 30581.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 90000.00
+Average Female Salary: 73895.00
+Difference: 16105.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 82078.33
+Average Female Salary: 73895.00
+Difference: 8183.33
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 82078.33
+Average Female Salary: 100000.00
+Difference: -17921.67
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 106469.00
+Average Female Salary: 73895.00
+Difference: 32574.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 106469.00
+Average Female Salary: 100000.00
+Difference: 6469.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 106469.00
+Average Female Salary: 112818.12
+Difference: -6349.12
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 115000.00
+Average Female Salary: 100000.00
+Difference: 15000.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 115000.00
+Average Female Salary: 112818.12
+Difference: 2181.88
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 115000.00
+Average Female Salary: 128852.84
+Difference: -13852.84
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 130000.00
+Average Female Salary: 112818.12
+Difference: 17181.88
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 130000.00
+Average Female Salary: 128852.84
+Difference: 1147.16
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 130000.00
+Average Female Salary: 127030.50
+Difference: 2969.50
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 145000.00
+Average Female Salary: 128852.84
+Difference: 16147.16
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 145000.00
+Average Female Salary: 127030.50
+Difference: 17969.50
+
+
+Job Title: Full Stack Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 145000.00
+Average Female Salary: 133326.00
+Difference: 11674.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 75630.14
+Average Female Salary: 99444.44
+Difference: -23814.30
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 75630.14
+Average Female Salary: 102853.11
+Difference: -27222.97
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 92614.73
+Average Female Salary: 99444.44
+Difference: -6829.72
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 92614.73
+Average Female Salary: 102853.11
+Difference: -10238.38
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 92614.73
+Average Female Salary: 109227.12
+Difference: -16612.40
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 100836.20
+Average Female Salary: 102853.11
+Difference: -2016.91
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 100836.20
+Average Female Salary: 109227.12
+Difference: -8390.93
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 100836.20
+Average Female Salary: 113896.30
+Difference: -13060.10
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 122056.25
+Average Female Salary: 109227.12
+Difference: 12829.12
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 122056.25
+Average Female Salary: 113896.30
+Difference: 8159.95
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 122056.25
+Average Female Salary: 117659.75
+Difference: 4396.50
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 138333.33
+Average Female Salary: 113896.30
+Difference: 24437.04
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 138333.33
+Average Female Salary: 117659.75
+Difference: 20673.58
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 138333.33
+Average Female Salary: 129409.00
+Difference: 8924.33
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 130144.00
+Average Female Salary: 117659.75
+Difference: 12484.25
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 130144.00
+Average Female Salary: 129409.00
+Difference: 735.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 130144.00
+Average Female Salary: 136234.38
+Difference: -6090.38
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 131933.50
+Average Female Salary: 129409.00
+Difference: 2524.50
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 131933.50
+Average Female Salary: 136234.38
+Difference: -4300.88
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 131933.50
+Average Female Salary: 156555.00
+Difference: -24621.50
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 138588.00
+Average Female Salary: 156555.00
+Difference: -17967.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 138588.00
+Average Female Salary: 145730.00
+Difference: -7142.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 160976.00
+Average Female Salary: 145730.00
+Difference: 15246.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 160976.00
+Average Female Salary: 144647.00
+Difference: 16329.00
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 146795.12
+Average Female Salary: 144647.00
+Difference: 2148.12
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 146795.12
+Average Female Salary: 163873.00
+Difference: -17077.88
+
+
+Job Title: Full Stack Engineer
+Education Level: Master's Degree
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 171487.75
+Average Female Salary: 163873.00
+Difference: 7614.75
+
+
+Job Title: Graphic Designer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 45000.00
+Average Female Salary: 45000.00
+Difference: 0.00
+
+
+Job Title: Graphic Designer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 45000.00
+Average Female Salary: 50000.00
+Difference: -5000.00
+
+
+Job Title: Graphic Designer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 50000.00
+Average Female Salary: 45000.00
+Difference: 5000.00
+
+
+Job Title: Graphic Designer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 50000.00
+Difference: 0.00
+
+
+Job Title: Graphic Designer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 60000.00
+Average Female Salary: 50000.00
+Difference: 10000.00
+
+
+Job Title: Junior Business Development Associate
+Education Level: Bachelor's
+Experience (Male): 1.5
+Experience (Female): 1.5
+Average Male Salary: 35000.00
+Average Female Salary: 35000.00
+Difference: 0.00
+
+
+Job Title: Junior Business Development Associate
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 1.5
+Average Male Salary: 40000.00
+Average Female Salary: 35000.00
+Difference: 5000.00
+
+
+Job Title: Junior Business Development Associate
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 40000.00
+Average Female Salary: 50000.00
+Difference: -10000.00
+
+
+Job Title: Junior Financial Analyst
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 40000.00
+Average Female Salary: 50000.00
+Difference: -10000.00
+
+
+Job Title: Junior Financial Analyst
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 50000.00
+Difference: 0.00
+
+
+Job Title: Junior Financial Analyst
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 60000.00
+Average Female Salary: 50000.00
+Difference: 10000.00
+
+
+Job Title: Junior Financial Analyst
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 60000.00
+Average Female Salary: 60000.00
+Difference: 0.00
+
+
+Job Title: Junior HR Coordinator
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 38000.00
+Average Female Salary: 33000.00
+Difference: 5000.00
+
+
+Job Title: Junior HR Coordinator
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 38000.00
+Average Female Salary: 50000.00
+Difference: -12000.00
+
+
+Job Title: Junior HR Coordinator
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 38000.00
+Average Female Salary: 45000.00
+Difference: -7000.00
+
+
+Job Title: Junior HR Coordinator
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 33000.00
+Average Female Salary: 30666.67
+Difference: 2333.33
+
+
+Job Title: Junior HR Coordinator
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 33000.00
+Average Female Salary: 38000.00
+Difference: -5000.00
+
+
+Job Title: Junior HR Coordinator
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 38000.00
+Average Female Salary: 38000.00
+Difference: 0.00
+
+
+Job Title: Junior HR Generalist
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 45000.00
+Difference: 5000.00
+
+
+Job Title: Junior HR Generalist
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 50000.00
+Average Female Salary: 32000.00
+Difference: 18000.00
+
+
+Job Title: Junior HR Generalist
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 42000.00
+Difference: 8000.00
+
+
+Job Title: Junior HR Generalist
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 50000.00
+Difference: 0.00
+
+
+Job Title: Junior HR Generalist
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 0.0
+Average Male Salary: 32000.00
+Average Female Salary: 40000.00
+Difference: -8000.00
+
+
+Job Title: Junior HR Generalist
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 32000.00
+Average Female Salary: 32000.00
+Difference: 0.00
+
+
+Job Title: Junior HR Generalist
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 32000.00
+Average Female Salary: 35000.00
+Difference: -3000.00
+
+
+Job Title: Junior HR Generalist
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 35833.33
+Average Female Salary: 32000.00
+Difference: 3833.33
+
+
+Job Title: Junior HR Generalist
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 35833.33
+Average Female Salary: 35000.00
+Difference: 833.33
+
+
+Job Title: Junior Marketing Coordinator
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Junior Marketing Coordinator
+Education Level: Bachelor's
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 40000.00
+Average Female Salary: 50000.00
+Difference: -10000.00
+
+
+Job Title: Junior Marketing Coordinator
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 55000.00
+Average Female Salary: 40000.00
+Difference: 15000.00
+
+
+Job Title: Junior Marketing Coordinator
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 55000.00
+Average Female Salary: 50000.00
+Difference: 5000.00
+
+
+Job Title: Junior Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 70000.00
+Average Female Salary: 57000.00
+Difference: 13000.00
+
+
+Job Title: Junior Marketing Specialist
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 45000.00
+Average Female Salary: 40000.00
+Difference: 5000.00
+
+
+Job Title: Junior Operations Manager
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 60000.00
+Average Female Salary: 70000.00
+Difference: -10000.00
+
+
+Job Title: Junior Project Manager
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 55000.00
+Average Female Salary: 40000.00
+Difference: 15000.00
+
+
+Job Title: Junior Sales Associate
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 27046.51
+Average Female Salary: 26523.81
+Difference: 522.70
+
+
+Job Title: Junior Sales Associate
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 32555.56
+Average Female Salary: 26523.81
+Difference: 6031.75
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's
+Experience (Male): 1.0
+Experience (Female): 1.5
+Average Male Salary: 35000.00
+Average Female Salary: 40000.00
+Difference: -5000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 35000.00
+Average Female Salary: 40000.00
+Difference: -5000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 45000.00
+Average Female Salary: 40000.00
+Difference: 5000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 30000.00
+Average Female Salary: 35000.00
+Difference: -5000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 45000.00
+Average Female Salary: 35000.00
+Difference: 10000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 45000.00
+Average Female Salary: 40000.00
+Difference: 5000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 55000.00
+Average Female Salary: 40000.00
+Difference: 15000.00
+
+
+Job Title: Junior Sales Representative
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Junior Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 55000.00
+Average Female Salary: 45000.00
+Difference: 10000.00
+
+
+Job Title: Junior Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 55000.00
+Average Female Salary: 48000.00
+Difference: 7000.00
+
+
+Job Title: Junior Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Junior Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 40000.00
+Average Female Salary: 45000.00
+Difference: -5000.00
+
+
+Job Title: Junior Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 45833.33
+Average Female Salary: 40000.00
+Difference: 5833.33
+
+
+Job Title: Junior Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 45833.33
+Average Female Salary: 45000.00
+Difference: 833.33
+
+
+Job Title: Junior Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 45000.00
+Difference: 5000.00
+
+
+Job Title: Juniour HR Generalist
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 43000.00
+Average Female Salary: 43000.00
+Difference: 0.00
+
+
+Job Title: Marketing Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 61666.67
+Difference: -11666.67
+
+
+Job Title: Marketing Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 66000.00
+Average Female Salary: 61666.67
+Difference: 4333.33
+
+
+Job Title: Marketing Analyst
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 71826.92
+Average Female Salary: 61666.67
+Difference: 10160.26
+
+
+Job Title: Marketing Director
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 189900.00
+Average Female Salary: 170000.00
+Difference: 19900.00
+
+
+Job Title: Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 110000.00
+Average Female Salary: 102000.00
+Difference: 8000.00
+
+
+Job Title: Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 110000.00
+Average Female Salary: 115000.00
+Difference: -5000.00
+
+
+Job Title: Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 130000.00
+Average Female Salary: 115000.00
+Difference: 15000.00
+
+
+Job Title: Marketing Manager
+Education Level: Bachelor's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 130000.00
+Average Female Salary: 140000.00
+Difference: -10000.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 130000.00
+Average Female Salary: 120000.00
+Difference: 10000.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 130000.00
+Average Female Salary: 130416.67
+Difference: -416.67
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 130000.00
+Average Female Salary: 110000.00
+Difference: 20000.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 110000.00
+Average Female Salary: 110000.00
+Difference: 0.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 110000.00
+Average Female Salary: 118500.00
+Difference: -8500.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 110000.00
+Average Female Salary: 134615.38
+Difference: -24615.38
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 120000.00
+Average Female Salary: 118500.00
+Difference: 1500.00
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 120000.00
+Average Female Salary: 134615.38
+Difference: -14615.38
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 130000.00
+Average Female Salary: 134615.38
+Difference: -4615.38
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 130000.00
+Average Female Salary: 166666.67
+Difference: -36666.67
+
+
+Job Title: Marketing Manager
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 140000.00
+Average Female Salary: 166666.67
+Difference: -26666.67
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 55000.00
+Average Female Salary: 55000.00
+Difference: 0.00
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 90000.00
+Average Female Salary: 75000.00
+Difference: 15000.00
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 90000.00
+Average Female Salary: 80000.00
+Difference: 10000.00
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 80000.00
+Average Female Salary: 80000.00
+Difference: 0.00
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 80000.00
+Average Female Salary: 95000.00
+Difference: -15000.00
+
+
+Job Title: Marketing Manager
+Education Level: PhD
+Experience (Male): 10.0
+Experience (Female): 9.0
+Average Male Salary: 100000.00
+Average Female Salary: 95000.00
+Difference: 5000.00
+
+
+Job Title: Operations Manager
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 78500.00
+Average Female Salary: 91000.00
+Difference: -12500.00
+
+
+Job Title: Operations Manager
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 90133.33
+Average Female Salary: 91000.00
+Difference: -866.67
+
+
+Job Title: Operations Manager
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 100882.35
+Average Female Salary: 91000.00
+Difference: 9882.35
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 59090.91
+Average Female Salary: 65000.00
+Difference: -5909.09
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 65000.00
+Average Female Salary: 65000.00
+Difference: 0.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 65000.00
+Average Female Salary: 70000.00
+Difference: -5000.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 80000.00
+Average Female Salary: 90000.00
+Difference: -10000.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 80000.00
+Average Female Salary: 82500.00
+Difference: -2500.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 120000.00
+Average Female Salary: 112500.00
+Difference: 7500.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 120000.00
+Average Female Salary: 167500.00
+Difference: -47500.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 130000.00
+Average Female Salary: 112500.00
+Difference: 17500.00
+
+
+Job Title: Product Manager
+Education Level: Bachelor's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 130000.00
+Average Female Salary: 167500.00
+Difference: -37500.00
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 130000.00
+Average Female Salary: 120000.00
+Difference: 10000.00
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 197400.00
+Average Female Salary: 195000.00
+Difference: 2400.00
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 197400.00
+Average Female Salary: 197094.34
+Difference: 305.66
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 197400.00
+Average Female Salary: 188545.45
+Difference: 8854.55
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 196000.00
+Average Female Salary: 197094.34
+Difference: -1094.34
+
+
+Job Title: Product Manager
+Education Level: Master's
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 196000.00
+Average Female Salary: 188545.45
+Difference: 7454.55
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 120000.00
+Average Female Salary: 100000.00
+Difference: 20000.00
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 120000.00
+Average Female Salary: 110000.00
+Difference: 10000.00
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 110000.00
+Average Female Salary: 110000.00
+Difference: 0.00
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 110000.00
+Average Female Salary: 120000.00
+Difference: -10000.00
+
+
+Job Title: Product Manager
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 110000.00
+Average Female Salary: 135000.00
+Difference: -25000.00
+
+
+Job Title: Research Director
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 163000.00
+Average Female Salary: 150000.00
+Difference: 13000.00
+
+
+Job Title: Research Director
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 163000.00
+Average Female Salary: 160000.00
+Difference: 3000.00
+
+
+Job Title: Research Director
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 163000.00
+Average Female Salary: 172000.00
+Difference: -9000.00
+
+
+Job Title: Research Director
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 170000.00
+Average Female Salary: 160000.00
+Difference: 10000.00
+
+
+Job Title: Research Director
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 170000.00
+Average Female Salary: 172000.00
+Difference: -2000.00
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 10.0
+Experience (Female): 11.0
+Average Male Salary: 150000.00
+Average Female Salary: 150000.00
+Difference: 0.00
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 152500.00
+Average Female Salary: 150000.00
+Difference: 2500.00
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 152500.00
+Average Female Salary: 167241.38
+Difference: -14741.38
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 177000.00
+Average Female Salary: 167241.38
+Difference: 9758.62
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 177000.00
+Average Female Salary: 185000.00
+Difference: -8000.00
+
+
+Job Title: Research Scientist
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 185000.00
+Average Female Salary: 185000.00
+Difference: 0.00
+
+
+Job Title: Sales Associate
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 45000.00
+Average Female Salary: 35000.00
+Difference: 10000.00
+
+
+Job Title: Sales Associate
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 0.0
+Average Male Salary: 35000.00
+Average Female Salary: 25000.00
+Difference: 10000.00
+
+
+Job Title: Sales Associate
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 35000.00
+Average Female Salary: 31607.14
+Difference: 3392.86
+
+
+Job Title: Sales Associate
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 35000.00
+Average Female Salary: 40000.00
+Difference: -5000.00
+
+
+Job Title: Sales Associate
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 40000.00
+Difference: 10000.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 75000.00
+Average Female Salary: 70000.00
+Difference: 5000.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 75000.00
+Average Female Salary: 75000.00
+Difference: 0.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 75000.00
+Average Female Salary: 90000.00
+Difference: -15000.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 90000.00
+Average Female Salary: 75000.00
+Difference: 15000.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 90000.00
+Average Female Salary: 90000.00
+Difference: 0.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 90000.00
+Average Female Salary: 80000.00
+Difference: 10000.00
+
+
+Job Title: Sales Director
+Education Level: Bachelor's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 140000.00
+Average Female Salary: 80000.00
+Difference: 60000.00
+
+
+Job Title: Sales Executive
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 35000.00
+Average Female Salary: 35000.00
+Difference: 0.00
+
+
+Job Title: Sales Executive
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 35000.00
+Average Female Salary: 35000.00
+Difference: 0.00
+
+
+Job Title: Sales Executive
+Education Level: High School
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 35000.00
+Average Female Salary: 40000.00
+Difference: -5000.00
+
+
+Job Title: Sales Executive
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 40000.00
+Average Female Salary: 35000.00
+Difference: 5000.00
+
+
+Job Title: Sales Executive
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Sales Manager
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 70000.00
+Average Female Salary: 75000.00
+Difference: -5000.00
+
+
+Job Title: Sales Manager
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 75000.00
+Average Female Salary: 75000.00
+Difference: 0.00
+
+
+Job Title: Sales Representative
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 35000.00
+Average Female Salary: 40000.00
+Difference: -5000.00
+
+
+Job Title: Sales Representative
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Sales Representative
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 40000.00
+Average Female Salary: 40000.00
+Difference: 0.00
+
+
+Job Title: Sales Representative
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 40000.00
+Difference: 10000.00
+
+
+Job Title: Sales Representative
+Education Level: High School
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 40000.00
+Difference: 10000.00
+
+
+Job Title: Sales Representative
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 45000.00
+Average Female Salary: 55000.00
+Difference: -10000.00
+
+
+Job Title: Senior Data Engineer
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 16.0
+Average Male Salary: 150000.00
+Average Female Salary: 160000.00
+Difference: -10000.00
+
+
+Job Title: Senior Data Scientist
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 15.0
+Average Male Salary: 180000.00
+Average Female Salary: 150000.00
+Difference: 30000.00
+
+
+Job Title: Senior Data Scientist
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 180000.00
+Average Female Salary: 170000.00
+Difference: 10000.00
+
+
+Job Title: Senior Data Scientist
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 15.0
+Average Male Salary: 175000.00
+Average Female Salary: 150000.00
+Difference: 25000.00
+
+
+Job Title: Senior Data Scientist
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 16.0
+Average Male Salary: 175000.00
+Average Female Salary: 170000.00
+Difference: 5000.00
+
+
+Job Title: Senior Financial Analyst
+Education Level: Bachelor's
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 90000.00
+Average Female Salary: 100000.00
+Difference: -10000.00
+
+
+Job Title: Senior Financial Analyst
+Education Level: Master's
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 95000.00
+Average Female Salary: 95000.00
+Difference: 0.00
+
+
+Job Title: Senior Financial Manager
+Education Level: Bachelor's
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 100000.00
+Average Female Salary: 90000.00
+Difference: 10000.00
+
+
+Job Title: Senior Financial Manager
+Education Level: Bachelor's
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 100000.00
+Average Female Salary: 120000.00
+Difference: -20000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 70000.00
+Average Female Salary: 70833.33
+Difference: -833.33
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 89000.00
+Average Female Salary: 80000.00
+Difference: 9000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 89000.00
+Average Female Salary: 80000.00
+Difference: 9000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 95000.00
+Average Female Salary: 80000.00
+Difference: 15000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 95000.00
+Average Female Salary: 80000.00
+Difference: 15000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 95000.00
+Average Female Salary: 80000.00
+Difference: 15000.00
+
+
+Job Title: Senior HR Generalist
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 107500.00
+Average Female Salary: 110000.00
+Difference: -2500.00
+
+
+Job Title: Senior Human Resources Manager
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 115000.00
+Average Female Salary: 120000.00
+Difference: -5000.00
+
+
+Job Title: Senior Human Resources Manager
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Senior Human Resources Manager
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 15.0
+Average Male Salary: 130000.00
+Average Female Salary: 150000.00
+Difference: -20000.00
+
+
+Job Title: Senior Marketing Analyst
+Education Level: Bachelor's
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 100000.00
+Average Female Salary: 85000.00
+Difference: 15000.00
+
+
+Job Title: Senior Marketing Specialist
+Education Level: Bachelor's
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 95000.00
+Average Female Salary: 85000.00
+Difference: 10000.00
+
+
+Job Title: Senior Operations Manager
+Education Level: Bachelor's
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 100000.00
+Average Female Salary: 120000.00
+Difference: -20000.00
+
+
+Job Title: Senior Product Marketing Manager
+Education Level: PhD
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 80000.00
+Average Female Salary: 95000.00
+Difference: -15000.00
+
+
+Job Title: Senior Product Marketing Manager
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 150000.00
+Average Female Salary: 160000.00
+Difference: -10000.00
+
+
+Job Title: Senior Product Marketing Manager
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 16.0
+Average Male Salary: 170000.00
+Average Female Salary: 160000.00
+Difference: 10000.00
+
+
+Job Title: Senior Product Marketing Manager
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 17.0
+Average Male Salary: 170000.00
+Average Female Salary: 170000.00
+Difference: 0.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 115000.00
+Average Female Salary: 70397.00
+Difference: 44603.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 115000.00
+Average Female Salary: 76483.00
+Difference: 38517.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 88422.75
+Average Female Salary: 89995.00
+Difference: -1572.25
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 119224.00
+Average Female Salary: 134598.00
+Difference: -15374.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 20.0
+Experience (Female): 20.0
+Average Male Salary: 146515.60
+Average Female Salary: 151315.00
+Difference: -4799.40
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 20.0
+Experience (Female): 21.0
+Average Male Salary: 146515.60
+Average Female Salary: 166253.80
+Difference: -19738.20
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 23.0
+Experience (Female): 22.0
+Average Male Salary: 181699.00
+Average Female Salary: 170826.20
+Difference: 10872.80
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 24.0
+Experience (Female): 25.0
+Average Male Salary: 166828.00
+Average Female Salary: 177690.75
+Difference: -10862.75
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 25.0
+Experience (Female): 25.0
+Average Male Salary: 166958.00
+Average Female Salary: 177690.75
+Difference: -10732.75
+
+
+Job Title: Senior Project Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 29.0
+Experience (Female): 30.0
+Average Male Salary: 191915.00
+Average Female Salary: 183020.00
+Difference: 8895.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 125000.00
+Average Female Salary: 101804.00
+Difference: 23196.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 125000.00
+Average Female Salary: 107906.00
+Difference: 17094.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 135000.00
+Average Female Salary: 107906.00
+Difference: 27094.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 115196.67
+Average Female Salary: 126753.00
+Difference: -11556.33
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 135958.00
+Average Female Salary: 126753.00
+Difference: 9205.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 135958.00
+Average Female Salary: 113110.25
+Difference: 22847.75
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 9.0
+Average Male Salary: 117314.00
+Average Female Salary: 126753.00
+Difference: -9439.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 10.0
+Average Male Salary: 117314.00
+Average Female Salary: 113110.25
+Difference: 4203.75
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 11.0
+Average Male Salary: 117314.00
+Average Female Salary: 156494.00
+Difference: -39180.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 164011.14
+Average Female Salary: 113110.25
+Difference: 50900.89
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 164011.14
+Average Female Salary: 156494.00
+Difference: 7517.14
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 164011.14
+Average Female Salary: 160089.00
+Difference: 3922.14
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 165000.00
+Average Female Salary: 156494.00
+Difference: 8506.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 165000.00
+Average Female Salary: 160089.00
+Difference: 4911.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 165000.00
+Average Female Salary: 180000.00
+Difference: -15000.00
+
+
+Job Title: Senior Project Engineer
+Education Level: Master's Degree
+Experience (Male): 25.0
+Experience (Female): 25.0
+Average Male Salary: 178859.00
+Average Female Salary: 177913.00
+Difference: 946.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 166250.00
+Average Female Salary: 165000.00
+Difference: 1250.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 166250.00
+Average Female Salary: 180000.00
+Difference: -13750.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 185000.00
+Average Female Salary: 180000.00
+Difference: 5000.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 185000.00
+Average Female Salary: 190000.00
+Difference: -5000.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 181363.64
+Average Female Salary: 180000.00
+Difference: 1363.64
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 181363.64
+Average Female Salary: 190000.00
+Difference: -8636.36
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 180416.67
+Average Female Salary: 190000.00
+Difference: -9583.33
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 180416.67
+Average Female Salary: 188333.33
+Difference: -7916.67
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 16.0
+Average Male Salary: 188000.00
+Average Female Salary: 188333.33
+Difference: -333.33
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 17.0
+Average Male Salary: 188000.00
+Average Female Salary: 195000.00
+Difference: -7000.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 16.0
+Average Male Salary: 195000.00
+Average Female Salary: 188333.33
+Difference: 6666.67
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 17.0
+Average Male Salary: 195000.00
+Average Female Salary: 195000.00
+Difference: 0.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 17.0
+Average Male Salary: 195000.00
+Average Female Salary: 195000.00
+Difference: 0.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 19.0
+Average Male Salary: 195000.00
+Average Female Salary: 210000.00
+Difference: -15000.00
+
+
+Job Title: Senior Project Engineer
+Education Level: PhD
+Experience (Male): 19.0
+Experience (Female): 19.0
+Average Male Salary: 200000.00
+Average Female Salary: 210000.00
+Difference: -10000.00
+
+
+Job Title: Senior Research Scientist
+Education Level: PhD
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 135000.00
+Average Female Salary: 140000.00
+Difference: -5000.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 119974.40
+Average Female Salary: 104378.00
+Difference: 15596.40
+
+
+Job Title: Senior Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 119974.40
+Average Female Salary: 108129.75
+Difference: 11844.65
+
+
+Job Title: Senior Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 20.0
+Experience (Female): 20.0
+Average Male Salary: 154281.00
+Average Female Salary: 143110.00
+Difference: 11171.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 108607.00
+Average Female Salary: 99747.00
+Difference: 8860.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 108607.00
+Average Female Salary: 119276.86
+Difference: -10669.86
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 108607.00
+Average Female Salary: 100000.00
+Difference: 8607.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 140000.00
+Average Female Salary: 119276.86
+Difference: 20723.14
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 7.0
+Average Male Salary: 140000.00
+Average Female Salary: 100000.00
+Difference: 40000.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 140000.00
+Average Female Salary: 105000.00
+Difference: 35000.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 142737.11
+Average Female Salary: 100000.00
+Difference: 42737.11
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 142737.11
+Average Female Salary: 105000.00
+Difference: 37737.11
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 142737.11
+Average Female Salary: 155000.00
+Difference: -12262.89
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 148571.43
+Average Female Salary: 105000.00
+Difference: 43571.43
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 148571.43
+Average Female Salary: 155000.00
+Difference: -6428.57
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 10.0
+Average Male Salary: 148571.43
+Average Female Salary: 130355.00
+Difference: 18216.43
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 9.0
+Average Male Salary: 155000.00
+Average Female Salary: 155000.00
+Difference: 0.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 10.0
+Average Male Salary: 155000.00
+Average Female Salary: 130355.00
+Difference: 24645.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 11.0
+Average Male Salary: 155000.00
+Average Female Salary: 160497.90
+Difference: -5497.90
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 10.0
+Average Male Salary: 165000.00
+Average Female Salary: 130355.00
+Difference: 34645.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 165000.00
+Average Female Salary: 160497.90
+Difference: 4502.10
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 11.0
+Experience (Female): 12.0
+Average Male Salary: 165000.00
+Average Female Salary: 167500.00
+Difference: -2500.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 147708.00
+Average Female Salary: 138193.17
+Difference: 9514.83
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 147708.00
+Average Female Salary: 138471.50
+Difference: 9236.50
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 15.0
+Average Male Salary: 147708.00
+Average Female Salary: 134641.00
+Difference: 13067.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 148437.00
+Average Female Salary: 138471.50
+Difference: 9965.50
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 15.0
+Experience (Female): 15.0
+Average Male Salary: 148437.00
+Average Female Salary: 134641.00
+Difference: 13796.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 148437.00
+Average Female Salary: 138159.00
+Difference: 10278.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 18.0
+Experience (Female): 19.0
+Average Male Salary: 169563.00
+Average Female Salary: 152944.00
+Difference: 16619.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 19.0
+Experience (Female): 19.0
+Average Male Salary: 181490.58
+Average Female Salary: 152944.00
+Difference: 28546.58
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 20.0
+Experience (Female): 19.0
+Average Male Salary: 174938.00
+Average Female Salary: 152944.00
+Difference: 21994.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 20.0
+Experience (Female): 21.0
+Average Male Salary: 174938.00
+Average Female Salary: 177002.00
+Difference: -2064.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 21.0
+Experience (Female): 21.0
+Average Male Salary: 182241.44
+Average Female Salary: 177002.00
+Difference: 5239.44
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 22.0
+Experience (Female): 21.0
+Average Male Salary: 182355.00
+Average Female Salary: 177002.00
+Difference: 5353.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 22.0
+Experience (Female): 23.0
+Average Male Salary: 182355.00
+Average Female Salary: 180632.40
+Difference: 1722.60
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 27.0
+Experience (Female): 28.0
+Average Male Salary: 188078.00
+Average Female Salary: 186963.00
+Difference: 1115.00
+
+
+Job Title: Senior Software Engineer
+Education Level: Master's Degree
+Experience (Male): 28.0
+Experience (Female): 28.0
+Average Male Salary: 186610.00
+Average Female Salary: 186963.00
+Difference: -353.00
+
+
+Job Title: Senior Software Engineer
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 12.0
+Average Male Salary: 163333.33
+Average Female Salary: 160000.00
+Difference: 3333.33
+
+
+Job Title: Senior Software Engineer
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 185000.00
+Average Female Salary: 160000.00
+Difference: 25000.00
+
+
+Job Title: Senior Software Engineer
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 185000.00
+Average Female Salary: 170000.00
+Difference: 15000.00
+
+
+Job Title: Senior Software Engineer
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 170384.62
+Average Female Salary: 170000.00
+Difference: 384.62
+
+
+Job Title: Senior Software Engineer
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 180000.00
+Average Female Salary: 170000.00
+Difference: 10000.00
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 48333.33
+Average Female Salary: 55000.00
+Difference: -6666.67
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 60000.00
+Average Female Salary: 55000.00
+Difference: 5000.00
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 60000.00
+Average Female Salary: 61444.44
+Difference: -1444.44
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 60653.85
+Average Female Salary: 55000.00
+Difference: 5653.85
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 60653.85
+Average Female Salary: 61444.44
+Difference: -790.60
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 80000.00
+Average Female Salary: 80000.00
+Difference: 0.00
+
+
+Job Title: Software Developer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 85000.00
+Average Female Salary: 80000.00
+Difference: 5000.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 125000.00
+Average Female Salary: 125000.00
+Difference: 0.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 125000.00
+Average Female Salary: 140000.00
+Difference: -15000.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 146333.33
+Average Female Salary: 125000.00
+Difference: 21333.33
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 146333.33
+Average Female Salary: 140000.00
+Difference: 6333.33
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 146333.33
+Average Female Salary: 157209.30
+Difference: -10875.97
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 152941.18
+Average Female Salary: 140000.00
+Difference: 12941.18
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 152941.18
+Average Female Salary: 157209.30
+Difference: -4268.13
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 5.0
+Experience (Female): 6.0
+Average Male Salary: 152941.18
+Average Female Salary: 155000.00
+Difference: -2058.82
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 171666.67
+Average Female Salary: 157209.30
+Difference: 14457.36
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 6.0
+Experience (Female): 6.0
+Average Male Salary: 171666.67
+Average Female Salary: 155000.00
+Difference: 16666.67
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 7.0
+Experience (Female): 6.0
+Average Male Salary: 180000.00
+Average Female Salary: 155000.00
+Difference: 25000.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 7.0
+Experience (Female): 8.0
+Average Male Salary: 180000.00
+Average Female Salary: 180000.00
+Difference: 0.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 187843.14
+Average Female Salary: 180000.00
+Difference: 7843.14
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 180000.00
+Average Female Salary: 180000.00
+Difference: 0.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 1.0
+Average Male Salary: 55066.67
+Average Female Salary: 50000.00
+Difference: 5066.67
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 1.0
+Experience (Female): 2.0
+Average Male Salary: 55066.67
+Average Female Salary: 65000.00
+Difference: -9933.33
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 63333.33
+Average Female Salary: 50000.00
+Difference: 13333.33
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 63333.33
+Average Female Salary: 65000.00
+Difference: -1666.67
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 63333.33
+Average Female Salary: 69821.43
+Difference: -6488.10
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 79375.00
+Average Female Salary: 65000.00
+Difference: 14375.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 79375.00
+Average Female Salary: 69821.43
+Difference: 9553.57
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 79375.00
+Average Female Salary: 100000.00
+Difference: -20625.00
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 70343.28
+Average Female Salary: 69821.43
+Difference: 521.86
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 70343.28
+Average Female Salary: 100000.00
+Difference: -29656.72
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 70343.28
+Average Female Salary: 89428.57
+Difference: -19085.29
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 75555.56
+Average Female Salary: 100000.00
+Difference: -24444.44
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 75555.56
+Average Female Salary: 89428.57
+Difference: -13873.02
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 85000.00
+Average Female Salary: 89428.57
+Difference: -4428.57
+
+
+Job Title: Software Engineer
+Education Level: Bachelor's Degree
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 195000.00
+Average Female Salary: 197000.00
+Difference: -2000.00
+
+
+Job Title: Software Engineer
+Education Level: Master's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 60000.00
+Average Female Salary: 60555.56
+Difference: -555.56
+
+
+Job Title: Software Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 8.0
+Average Male Salary: 120000.00
+Average Female Salary: 120000.00
+Difference: 0.00
+
+
+Job Title: Software Engineer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 9.0
+Average Male Salary: 120000.00
+Average Female Salary: 130000.00
+Difference: -10000.00
+
+
+Job Title: Software Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 8.0
+Average Male Salary: 121666.67
+Average Female Salary: 120000.00
+Difference: 1666.67
+
+
+Job Title: Software Engineer
+Education Level: Master's Degree
+Experience (Male): 9.0
+Experience (Female): 9.0
+Average Male Salary: 121666.67
+Average Female Salary: 130000.00
+Difference: -8333.33
+
+
+Job Title: Software Engineer Manager
+Education Level: Bachelor's Degree
+Experience (Male): 10.0
+Experience (Female): 11.0
+Average Male Salary: 150000.00
+Average Female Salary: 170000.00
+Difference: -20000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Bachelor's Degree
+Experience (Male): 11.0
+Experience (Female): 11.0
+Average Male Salary: 155000.00
+Average Female Salary: 170000.00
+Difference: -15000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Bachelor's Degree
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 160000.00
+Average Female Salary: 170000.00
+Difference: -10000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 10.0
+Experience (Female): 11.0
+Average Male Salary: 150000.00
+Average Female Salary: 165000.00
+Difference: -15000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 12.0
+Average Male Salary: 170000.00
+Average Female Salary: 160000.00
+Difference: 10000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 170000.00
+Average Female Salary: 170000.00
+Difference: 0.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 161180.00
+Average Female Salary: 170000.00
+Difference: -8820.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 21.0
+Experience (Female): 22.0
+Average Male Salary: 166512.00
+Average Female Salary: 183530.00
+Difference: -17018.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 22.0
+Experience (Female): 22.0
+Average Male Salary: 182237.00
+Average Female Salary: 183530.00
+Difference: -1293.00
+
+
+Job Title: Software Engineer Manager
+Education Level: Master's Degree
+Experience (Male): 23.0
+Experience (Female): 22.0
+Average Male Salary: 182392.00
+Average Female Salary: 183530.00
+Difference: -1138.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 11.0
+Average Male Salary: 163763.25
+Average Female Salary: 165000.00
+Difference: -1236.75
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 12.0
+Experience (Female): 13.0
+Average Male Salary: 163763.25
+Average Female Salary: 140379.33
+Difference: 23383.92
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 13.0
+Average Male Salary: 180000.00
+Average Female Salary: 140379.33
+Difference: 39620.67
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 13.0
+Experience (Female): 14.0
+Average Male Salary: 180000.00
+Average Female Salary: 184000.00
+Difference: -4000.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 13.0
+Average Male Salary: 185312.50
+Average Female Salary: 140379.33
+Difference: 44933.17
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 14.0
+Average Male Salary: 185312.50
+Average Female Salary: 184000.00
+Difference: 1312.50
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 14.0
+Experience (Female): 15.0
+Average Male Salary: 185312.50
+Average Female Salary: 144913.00
+Difference: 40399.50
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 14.0
+Average Male Salary: 183280.29
+Average Female Salary: 184000.00
+Difference: -719.71
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 15.0
+Average Male Salary: 183280.29
+Average Female Salary: 144913.00
+Difference: 38367.29
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 15.0
+Experience (Female): 16.0
+Average Male Salary: 183280.29
+Average Female Salary: 189000.00
+Difference: -5719.71
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 15.0
+Average Male Salary: 185763.66
+Average Female Salary: 144913.00
+Difference: 40850.66
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 16.0
+Average Male Salary: 185763.66
+Average Female Salary: 189000.00
+Difference: -3236.34
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 16.0
+Experience (Female): 17.0
+Average Male Salary: 185763.66
+Average Female Salary: 195000.00
+Difference: -9236.34
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 16.0
+Average Male Salary: 195113.64
+Average Female Salary: 189000.00
+Difference: 6113.64
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 17.0
+Average Male Salary: 195113.64
+Average Female Salary: 195000.00
+Difference: 113.64
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 17.0
+Experience (Female): 18.0
+Average Male Salary: 195113.64
+Average Female Salary: 169475.83
+Difference: 25637.80
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 17.0
+Average Male Salary: 201388.89
+Average Female Salary: 195000.00
+Difference: 6388.89
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 18.0
+Average Male Salary: 201388.89
+Average Female Salary: 169475.83
+Difference: 31913.06
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 18.0
+Experience (Female): 19.0
+Average Male Salary: 201388.89
+Average Female Salary: 156350.50
+Difference: 45038.39
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 19.0
+Experience (Female): 18.0
+Average Male Salary: 191558.57
+Average Female Salary: 169475.83
+Difference: 22082.74
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 19.0
+Experience (Female): 19.0
+Average Male Salary: 191558.57
+Average Female Salary: 156350.50
+Difference: 35208.07
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 20.0
+Experience (Female): 19.0
+Average Male Salary: 202000.00
+Average Female Salary: 156350.50
+Difference: 45649.50
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 20.0
+Experience (Female): 21.0
+Average Male Salary: 202000.00
+Average Female Salary: 174821.00
+Difference: 27179.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 21.0
+Experience (Female): 21.0
+Average Male Salary: 173752.60
+Average Female Salary: 174821.00
+Difference: -1068.40
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 21.0
+Experience (Female): 22.0
+Average Male Salary: 173752.60
+Average Female Salary: 178684.00
+Difference: -4931.40
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 23.0
+Experience (Female): 22.0
+Average Male Salary: 170474.67
+Average Female Salary: 178684.00
+Difference: -8209.33
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 23.0
+Experience (Female): 23.0
+Average Male Salary: 170474.67
+Average Female Salary: 170614.50
+Difference: -139.83
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 24.0
+Experience (Female): 23.0
+Average Male Salary: 192211.00
+Average Female Salary: 170614.50
+Difference: 21596.50
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 26.0
+Experience (Female): 27.0
+Average Male Salary: 186913.40
+Average Female Salary: 180958.00
+Difference: 5955.40
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 27.0
+Experience (Female): 27.0
+Average Male Salary: 190596.00
+Average Female Salary: 180958.00
+Difference: 9638.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 28.0
+Experience (Female): 27.0
+Average Male Salary: 186327.00
+Average Female Salary: 180958.00
+Difference: 5369.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 28.0
+Experience (Female): 29.0
+Average Male Salary: 186327.00
+Average Female Salary: 192882.43
+Difference: -6555.43
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 30.0
+Experience (Female): 29.0
+Average Male Salary: 184660.00
+Average Female Salary: 192882.43
+Difference: -8222.43
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 30.0
+Experience (Female): 30.0
+Average Male Salary: 184660.00
+Average Female Salary: 183138.00
+Difference: 1522.00
+
+
+Job Title: Software Engineer Manager
+Education Level: PhD
+Experience (Male): 30.0
+Experience (Female): 31.0
+Average Male Salary: 184660.00
+Average Female Salary: 194586.00
+Difference: -9926.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 57500.00
+Average Female Salary: 50000.00
+Difference: 7500.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 57500.00
+Average Female Salary: 57500.00
+Difference: 0.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 57500.00
+Average Female Salary: 65000.00
+Difference: -7500.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 65000.00
+Average Female Salary: 57500.00
+Difference: 7500.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 65000.00
+Average Female Salary: 65000.00
+Difference: 0.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 65000.00
+Average Female Salary: 70000.00
+Difference: -5000.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 70000.00
+Average Female Salary: 65000.00
+Difference: 5000.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 70000.00
+Average Female Salary: 70000.00
+Difference: 0.00
+
+
+Job Title: Web Developer
+Education Level: Bachelor's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 80000.00
+Average Female Salary: 70000.00
+Difference: 10000.00
+
+
+Job Title: Web Developer
+Education Level: High School
+Experience (Male): 2.0
+Experience (Female): 1.0
+Average Male Salary: 45000.00
+Average Female Salary: 35000.00
+Difference: 10000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 2.0
+Experience (Female): 2.0
+Average Male Salary: 50000.00
+Average Female Salary: 50000.00
+Difference: 0.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 2.0
+Experience (Female): 3.0
+Average Male Salary: 50000.00
+Average Female Salary: 60000.00
+Difference: -10000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 2.0
+Average Male Salary: 55000.00
+Average Female Salary: 50000.00
+Difference: 5000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 3.0
+Average Male Salary: 55000.00
+Average Female Salary: 60000.00
+Difference: -5000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 3.0
+Experience (Female): 4.0
+Average Male Salary: 55000.00
+Average Female Salary: 65000.00
+Difference: -10000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 3.0
+Average Male Salary: 65000.00
+Average Female Salary: 60000.00
+Difference: 5000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 4.0
+Average Male Salary: 65000.00
+Average Female Salary: 65000.00
+Difference: 0.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 4.0
+Experience (Female): 5.0
+Average Male Salary: 65000.00
+Average Female Salary: 70000.00
+Difference: -5000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 4.0
+Average Male Salary: 80000.00
+Average Female Salary: 65000.00
+Difference: 15000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 5.0
+Experience (Female): 5.0
+Average Male Salary: 80000.00
+Average Female Salary: 70000.00
+Difference: 10000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 5.0
+Average Male Salary: 80000.00
+Average Female Salary: 70000.00
+Difference: 10000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 6.0
+Experience (Female): 7.0
+Average Male Salary: 80000.00
+Average Female Salary: 85000.00
+Difference: -5000.00
+
+
+Job Title: Web Developer
+Education Level: Master's Degree
+Experience (Male): 8.0
+Experience (Female): 7.0
+Average Male Salary: 90000.00
+Average Female Salary: 85000.00
+Difference: 5000.00
+
+
